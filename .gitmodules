@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ExpDes"]
+	path = ExpDes
+	url = https://github.com/cran/ExpDes
+	shallow = true
+	registered = true
+[submodule "ExpDes.pt"]
+	path = ExpDes.pt
+	url = https://github.com/cran/ExpDes.pt
+	shallow = true
+	registered = true
