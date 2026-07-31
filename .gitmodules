@@ -5,6 +5,3 @@
 [submodule "ExpDes"]
 	path = ExpDes
 	url = https://github.com/cran/ExpDes
-[submodule "ExpDes.pt"]
-	path = ExpDes.pt
-	url = https://github.com/cran/ExpDes.pt
